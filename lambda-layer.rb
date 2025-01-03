@@ -4,7 +4,7 @@ class LambdaLayer < Formula
     version "v0.0.2"
   
     if OS.mac?
-      url "https://github.com/birkoff/lambda-layer/releases/download/v0.0.2/lambda-layer-build"
+      url "https://github.com/birkoff/lambda-layer/raw/refs/tags/v1.0.0/lambda-layer-build"
     #   sha256 "<mac_binary_sha256_checksum>"
     # elsif OS.linux?
     #   url "https://github.com/birkoff/lambda-layer/releases/download/v0.0.2/my-cli-linux"
